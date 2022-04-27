@@ -1,7 +1,6 @@
 
 // function of calculating sum of people's budgets in an array of objects:
 
-
 let getBudgets = [
     { name: "John", age: 21, budget: 29000 },
     { name: "Steve", age: 32, budget: 32000 },
