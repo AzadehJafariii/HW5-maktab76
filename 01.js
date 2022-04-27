@@ -1,7 +1,6 @@
 
 // function of finding ancestors and offspring:
 
-
 let generationArray = [
 { id: -3, generation: { m: "great grandfather", f: "great grandmother" } },
 { id: -2, generation: { m: "grandfather", f: "grandmother" } },
